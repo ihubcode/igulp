@@ -1,0 +1,17 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guilpfile.js",
+  "scripts": {
+    "gulp-pro": "gulp build",
+    "gulp-pro2": "gulp build --project pro2"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "require-dir": "^1.0.0",
+    "yargs": "^11.0.0"
+  }
+}
